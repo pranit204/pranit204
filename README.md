@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **pranit.careers@gmail.com**
 
-- ⚡ Fun fact **I share my birthday with Hulk Hogan and Chris Hemsworth on August 11.**
+- ⚡ Fun fact **Code by day, conquer nature by the weekend - driving, hiking, and playing sports keep my code fresh!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
