@@ -4,7 +4,7 @@
 
 - I currently work at Inbenta as a Senior Data Analyst and I am based out of Toronto, Ontario!
 
-- 🌱 I’m currently pursuing the **Master of Management in Artificial Intelligence** program at **Queen's University**
+- 🌱 I’m also concurrently pursuing the **Master of Management in Artificial Intelligence** program at **Queen's University**
   
 - 📫 How to reach me **pranit.careers@gmail.com**
 
