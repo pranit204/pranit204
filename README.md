@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranit Sanghavi</h1>
 <h3 align="center">A dedicated and enthusiastic ML and AI professional</h3>
 
-- I currently work at Inbenta (URL: https://www.inbenta.com/) as a Senior Data Analyst and I am based out of Toronto, Ontario! 
+- I currently work at Inbenta (URL: https://www.inbenta.com/) as Manager - Machine Learning & Analytics and I am based out of Toronto, Ontario! 
 
-- 🌱 I’m also concurrently pursuing the **Master of Management in Artificial Intelligence** program at **Queen's University (part-time).**
+- 🌱 I’m also a recent graduate of the **Master of Management in Artificial Intelligence** program at **Queen's University (2025).**
   
 - 📫 How to reach me **pranit.careers@gmail.com**
 
